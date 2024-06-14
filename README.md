@@ -29,7 +29,7 @@ JS Mastery 官方Youtube頻道 : <a href="https://www.youtube.com/@javascriptmas
 <br>
 <br>
 
-## 3D Portfolio Website - Gamer
+## 3D T-Shirt Shop
 Link : https://threed-t-shirt-shop.onrender.com
 
 ## Tech stack
